@@ -10,3 +10,4 @@ Common Usage: $('menuOLSelector').responsiveMenuText();
  
  I put some initial AMD support in, but I haven't tested it.
  
+there is a debug flag at the top of the script to assist with debugging.
