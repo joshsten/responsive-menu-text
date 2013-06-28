@@ -11,7 +11,7 @@
 $(function ($) {
     'use strict';
 
-    var DEBUG = true;
+    var DEBUG = false;
     var diag = function (msg) {
         if (DEBUG) {
             console.log('[ Responsive Menus ] ' + msg);
